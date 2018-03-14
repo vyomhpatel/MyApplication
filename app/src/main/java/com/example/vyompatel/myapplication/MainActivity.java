@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         int i = 1+1;
         //update2
         //hello commit 3
+        //add some comment
     }
 }
