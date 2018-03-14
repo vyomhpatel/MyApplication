@@ -12,8 +12,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv1 = findViewById(R.id.tv1);
+        //yiming update
 
-    }
+}
 
     private void testUpload(){
         int i = 1+1;
