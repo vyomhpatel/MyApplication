@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
         //hhh
         //xxxxs
         //123
+        System.out.print("Rui: Hello, Everyone?");
     }
 }
